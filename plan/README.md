@@ -1,8 +1,8 @@
-# Site Plan - (Website name)
+# Site Plan - 
 
 ## Overview
 
-The aim of *Website name* is to create a personal Blog about finance advice that will allow me to teach money-saving techniques and economical lifestyle tips. 
+The aim of *Mike's Website* is to create a personal Blog about finance advice that will allow me to teach money-saving techniques and economical lifestyle tips. 
 
 Money is everywhere. You can’t escape it. Unfortunately, personal finance is not a required subject in most high schools or colleges. The lack of basic financial education leaves many young adults clueless about how to manage their money, applying for credit, and how to get or stay out of debt. Many people are left at a disadvantage when entering the real world  
 
@@ -22,6 +22,12 @@ The primary goals are of the site are given below:
 *
 ### Promote My Professional Social Profiles
 * Allows the able to self promote 
-* Allows viewers to see other socical media sites where I talk about the important of learning financial litercey at a young age. 
+* Allows viewers to see other socical media sites where I talk about the important of learning financial literary at a young age. 
+
+## Target User
+
+The target user for this website are young adults who want to learn what to do with their money. 
+
+
 
 

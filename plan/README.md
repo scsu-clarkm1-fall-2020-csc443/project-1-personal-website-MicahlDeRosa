@@ -28,12 +28,29 @@ The primary goals are of the site are given below:
 
 The target users are young adults who want to learn more about what to do with their money and how to save and invest it. 
 
-### Jacob - The highschool student
+### Jacob - Highschool Student
 
 <img src="img/highschool_student.jpg" width=200>
 
-jacob is a highschool student who just got his first job. He wants to learn how to make the most out of the small amount of money he is earning and looking for a advice for how he can make the most out of each paycheck 
+jacob is a 17 year-old highschool junior who just got his first job. He wants to learn how to make the most out of the small amount of money he is earning and looking for a advice for how he can make the most out of each paycheck 
 
-He is visiting my page to soak in as much knowledge as he can get and find out more ways that he can be smarter with the money he's earning. Jacob is taking the first step in learning about 
+He is visiting my page to soak in as much knowledge as he can get and find out more ways that he can be smarter with the money he's earning. Jacob is taking the first step in learning about financial literary 
+
+### Mary - College Student
+
+<img src="img/college_student.jpg" width=200>
+
+Mary is 22 year-old college senior who's decided to move out of her parents house and live on her own for her last year of college. She had been saving most of her paychecks in prepartion for moving out. 
+
+Mary has notice the money she has saved is depleting much quicker then she thought it would and is looking for finacnal advice on how to budget her spending.
+
+She likes what my website has to say and follows me on other social media sites via links on website page to keep up with more of my daily conent on how to be more financially literate. 
+
+## Content 
+
+### Home
+
+This will be the page user see when I first arrive on the site. The home page won't contain a lot of informatioon other then the idea behind the wesite with a few pictures
+
 
 

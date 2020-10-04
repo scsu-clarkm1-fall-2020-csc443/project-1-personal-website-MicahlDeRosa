@@ -17,7 +17,7 @@ The primary goals are of the site are given below:
 * 
 *
 ### Help Users Learn About a Zero Based Budget
-* helping users learned hwo to break down there pay checks 
+* helping users learned how to break down there pay checks 
 * 
 *
 ### Promote My Professional Social Profiles
@@ -50,7 +50,22 @@ She likes what my website has to say and follows me on other social media sites 
 
 ### Home
 
-This will be the page user see when I first arrive on the site. The home page won't contain a lot of informatioon other then the idea behind the wesite with a few pictures
+This will be the page user see when I first arrive on the site. The home page won't contain a lot of information. It will have my name, the idea behind wanting to create the wesite, and my mission for the site along with a with a few pictures
+
+## About 
+
+Page will contain a brief narrative about myself. It will contain some information about my professional life as well. 
+
+### Budget Breakdown page
+ This page will stress the important of learn what a budget is and how it can be used to help you see where/how your money is being spent
+
+### investing Advice 
+
+This page will contain information on how to make small but smart and easy investments. The point of this page it to show young peolpe it not complicated make to  smart long term investment to further ther financal status.
+
+### Contact Informtion 
+
+Contact information will allways be availbe in the nav bar. I want the contact information to be visible to the user and easy to access. 
 
 
 

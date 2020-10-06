@@ -52,7 +52,7 @@ She likes what my website has to say and follows me on other social media sites 
 
 This will be the page user see when I first arrive on the site. The home page won't contain a lot of information. It will have my name, the idea behind wanting to create the wesite, and my mission for the site along with a with a few pictures
 
-## About 
+### About 
 
 Page will contain a brief narrative about myself. It will contain some information about my professional life as well. 
 
@@ -67,5 +67,29 @@ This page will contain information on how to make small but smart and easy inves
 
 Contact information will allways be availbe in the nav bar. I want the contact information to be visible to the user and easy to access. 
 
+## Similar Sites 
 
+### investedwallet.com 
+
+* *investwallet.com* is a site I was researching and found it to be super informative and easy to follow. The nav bar is simple top follow and easy to navigate. I liked how the contact information was easy to follow and accessible on every page. The website provides good information that is helper to the user and isnt just fluff. I also like how simple athe home page was, nice quality picutes used and not hard to understand how to use.  
+
+<img src="img/site1.jpg" width=800>
+
+<br>
+<br>
+<br>
+
+### wisebread.com
+ 
+* *wisebread.com* is another site with alot of good information about how to save money and also what to do with the money you have saved. I really like all the good information that was given on the site. I personally found the site design to be a little busy and kind of boring. But its site itself isn't hard to follow and allows the user to get good information on how to use and save their money wisely
+
+<img src="img/site2.jpg" width=800>
+
+<br>
+<br>
+<br>
+
+### Conclusion 
+
+* I really liked both sites but feel that wisebread's site wasn't as appeasing to look at as investedwallet. I liked how both sites gave easy to understand information. I want to incorporate easy to follow/understand information in my site and will follow something similar to their sites. Easy to follow info is important to me since my site will be for young kids and adults and I dont want the information to be to complex and hard to follow. The same goes for my design, My design will be very simple. I found a really great site called *nataliebacon.com*. Natalie created an easy to follow site with great design and picutes.
 

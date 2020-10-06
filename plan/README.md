@@ -77,7 +77,6 @@ Contact information will allways be availbe in the nav bar. I want the contact i
 
 <br>
 <br>
-<br>
 
 ### wisebread.com
  
@@ -87,9 +86,19 @@ Contact information will allways be availbe in the nav bar. I want the contact i
 
 <br>
 <br>
+
+### nataliebacon.com
+
+* Natalie has an easy to follow site with great design. I want to have a design similar to her site. It is clean and very while being easy to navigate. 
+
+<img src="img/site3.jpg" width=800>
+
+<br>
 <br>
 
 ### Conclusion 
 
-* I really liked both sites but feel that wisebread's site wasn't as appeasing to look at as investedwallet. I liked how both sites gave easy to understand information. I want to incorporate easy to follow/understand information in my site and will follow something similar to their sites. Easy to follow info is important to me since my site will be for young kids and adults and I dont want the information to be to complex and hard to follow. The same goes for my design, My design will be very simple. I found a really great site called *nataliebacon.com*. Natalie created an easy to follow site with great design and picutes.
+* I really liked both sites but feel that wisebread's site wasn't as appeasing to look at as investedwallet. I liked how both sites gave easy to understand information. I want to incorporate easy to follow/understand information in my site and will follow something similar to their sites. Easy to follow info is important to me since my site will be for young kids and adults and I dont want the information to be to complex and hard to follow. The same goes for my design, My design will be very simple. I really liked the design/look of *nataliebacon.com*. Natalie created an easy to follow site with great design and picutes.
+
+
 

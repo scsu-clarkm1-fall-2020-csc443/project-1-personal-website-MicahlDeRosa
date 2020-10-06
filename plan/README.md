@@ -76,7 +76,6 @@ Contact information will allways be availbe in the nav bar. I want the contact i
 <img src="img/site1.jpg" width=800>
 
 <br>
-<br>
 
 ### wisebread.com
  
@@ -85,7 +84,6 @@ Contact information will allways be availbe in the nav bar. I want the contact i
 <img src="img/site2.jpg" width=800>
 
 <br>
-<br>
 
 ### nataliebacon.com
 
@@ -93,7 +91,6 @@ Contact information will allways be availbe in the nav bar. I want the contact i
 
 <img src="img/site3.jpg" width=800>
 
-<br>
 <br>
 
 ### Conclusion 

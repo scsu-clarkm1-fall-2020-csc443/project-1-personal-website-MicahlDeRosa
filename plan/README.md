@@ -2,24 +2,24 @@
 
 ## Overview
 
-* The mission of *MillennialMoney.com* is to offer young adults and adolescents advice on their finances. Millennialmoney will be designed around giving easy to understand advice to young kids and young adults on money-saving techniques and economical lifestyle tips. 
+The mission of *MillennialMoney.com* is to offer young adults and adolescents advice on their finances. Millennialmoney will be designed around giving easy to understand advice to young kids and young adults on money-saving techniques and economical lifestyle tips. 
 
-* Money is everywhere. You can’t escape it. Unfortunately, personal finance is not a required subject in most high schools or colleges. The lack of basic financial education leaves many young adults clueless about how to manage their money, applying for credit, and how to get or stay out of debt. Many people are left at a disadvantage when entering the real world  
+Money is everywhere. You can’t escape it. Unfortunately, personal finance is not a required subject in most high schools or colleges. The lack of basic financial education leaves many young adults clueless about how to manage their money, applying for credit, and how to get or stay out of debt. Many people are left at a disadvantage when entering the real world  
 
-* This website will remain static in nature and will be built from the bare bone up. The website will consist of several pages that each have some kind of of simple and easy to understand advice about how to take care of your personal finances.  
+This website will remain static in nature and will be built from the bare bone up. The website will consist of several pages that each have some kind of of simple and easy to understand advice about how to take care of your personal finances.  
 
 ## Goals
 
 The primary goals are of the site are given below:
 
 ### Breaking Down Spending Habits
-* Helping users 
-* 
-*
+* Helping users learn how to track spendig
+* Exploring How to deal with loan debt
+* exploring if you should own a credit card
 ### Help Users Learn About a Zero Based Budget
-* helping users learned how to break down there pay checks 
-* 
-*
+* Learning how to set a budget for each month 
+* Learning how to make an emergency fund
+* When is the best time to start invest/saving for retirement 
 ### Promote My Professional Social Profiles
 * Allows the able to self promote 
 * Allows viewers to see other social media sites where I talk about the important of learning financial literary at a young age. 

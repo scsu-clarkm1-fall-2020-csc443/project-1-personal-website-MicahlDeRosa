@@ -89,7 +89,7 @@ Contact information will allways be availbe in the nav bar. I want the contact i
 
 ### nataliebacon.com
 
-* Natalie has an easy to follow site with great design. I want to have a design similar to her site. It is clean and very while being easy to navigate. 
+* Natalie has an easy to follow site with great design. I want to have a design similar to her site. It is clean and very simple look while being easy to navigate. 
 
 <img src="img/site3.jpg" width=800>
 

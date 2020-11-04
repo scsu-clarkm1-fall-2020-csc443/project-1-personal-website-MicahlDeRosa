@@ -3,26 +3,25 @@
     background-size: 100%;
 }
 
-.about-page{
-    background-image: url('img/money.jpg');
-    background-size: 100%;
-}
-
-#about{
-    color: #DCDCDC;;
-	font-size: 56px;
-	-webkit-text-stroke: 1px #282828;
-	text-shadow: 0px 4px 4px #282828;
-}
-
-#about2{
-    color: #000000;;
-	-webkit-text-stroke: 1px #282828;
-	text-shadow: 0px 4px 4px #282828;
-}
-
-#about3{
-    color: #000000;;
-	-webkit-text-stroke: 1px #282828;
-	text-shadow: 0px 4px 4px #282828;
-}
+header.masthead {
+    position: relative;
+    background-color: #343a40;
+    background: url("img/3000.jpeg") no-repeat center center;
+    background-size: cover;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+  }
+  
+  header.masthead .overlay {
+    position: absolute;
+    background-color: #212529;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    opacity: 0.3;
+  }
+  
+  header.masthead h1 {
+    font-size: 2rem;
+  }
